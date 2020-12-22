@@ -1,0 +1,1 @@
+call mvn test -DsuiteXmlFile=src/test/java/TestClass.xml
