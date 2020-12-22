@@ -16,7 +16,7 @@ public class TestClass {
     @BeforeTest
     public void chargeProperties()
     {
-        System.setProperty("webdriver.gecko.driver", "C:\\Users\\rafro\\IdeaProjects\\PruebaTecnicaRafaelRomero\\src\\main\\resources\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
         firefox = new FirefoxDriver();
         //Implicit Wait
         firefox.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
