@@ -12,7 +12,7 @@ Opcion 2, lanzarlo a traves de Testng con el ide IntelliJ.
 2. Buscar el archivo llamado testng.xml
 3. Crear un archivo de configuration de TestNg para lanzar el .xml
 4. Debe de quedar algo similar a esto:
-![picture](img/exampleConfigurationTestNG.png)
+![picture](img/2020-12-22 21_13_41-Window.png)
 5. Guardarlo y lanzarlo.
 
 
